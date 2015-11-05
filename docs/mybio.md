@@ -2,3 +2,4 @@
  - [ ] Country of Origin: **Pakistan**
  - [ ] Favorite Meal:      **Mutton**
  - [ ] Hobby:                 **Software Development**
+ - [ ] Favorite Color:                 **Sky Blue**
